@@ -1,0 +1,54 @@
+Input: Welcome to the Mall of Sfax! How can I assist you today? Output: I can answer your questions about the mall, help you find stores, or provide general information.
+Input: The Mall of Sfax has over 100 stores offering a variety of products. Output: That's right! You can find a wide range of brands and products here.
+Input: You can find the latest fashion, electronics, and home appliances here. Output: Absolutely! The mall has a diverse selection of stores for all your shopping needs.
+Input: The mall is open daily from 9 AM to 10 PM. Output: Yes, the mall is open every day from 9:00 AM to 10:00 PM.
+Input: The food court offers a wide selection of cuisines, including Italian, Tunisian, and fast food. Output: Enjoy a variety of dining options at the food court.
+Input: The cinema in the Mall of Sfax has the latest movies showing daily. Output: Catch the latest blockbusters at the cinema.
+Input: Parking is free for the first two hours at the Mall of Sfax. Output: Enjoy free parking for the first two hours.
+Input: We have special discounts every weekend. Don't miss out! Output: Look for special offers and discounts every weekend.
+Input: Can I help you find a specific store or service in the mall? Output: Yes, I can help you locate stores within the mall. Just let me know the name of the store you're looking for.
+Input: Visit the Mall of Sfax to enjoy a unique shopping and entertainment experience. Output: Come experience the Mall of Sfax for yourself!
+Input: What are the mall hours? Output: The mall is open daily from 9 AM to 10 PM.
+Input: When does the mall open and close? Output: The mall opens at 9 AM and closes at 10 PM daily.
+Input: I'm looking for the mall's opening hours. Output: The mall is open from 9 AM to 10 PM daily.
+Input: Is the mall open today? Output: Yes, the mall is open today from 9 AM to 10 PM.
+Input: What are the mall's business hours? Output: The mall's business hours are 9 AM to 10 PM daily.
+Input: Are there any stores open late? Output: Some stores may have extended hours. Please check with individual stores for their specific operating times.
+Input: What are the mall's operating hours? Output: The mall operates from 9 AM to 10 PM daily.
+Input: Does the mall have a website? Output: Yes, the Mall of Sfax has a website. You can usually find it by searching online for 'Mall of Sfax'.
+Input: How can I contact the mall? Output: You can usually find contact information like phone numbers and email addresses on the mall's website or by visiting the mall's customer service desk.
+Input: Is there a lost and found at the mall? Output: Yes, there is usually a lost and found at the mall's customer service desk.
+Input: Can I bring my pet to the mall? Output: Pet policies vary. Please check with the mall management for their pet policy.
+Input: Does the mall have a play area for children? Output: Please check with the mall management for information about play areas.
+Input: Are strollers allowed in the mall? Output: Strollers are generally allowed in the mall.
+Input: Does the mall have elevators? Output: Yes, the mall typically has elevators for accessibility.
+Input: Is there free Wi-Fi available in the mall? Output: Please check with the mall management for Wi-Fi availability and any associated terms and conditions.
+Input: Can I use public transportation to get to the mall? Output: Please check local transportation options for routes and schedules to the mall.
+Input: Are there any events happening at the mall today? Output: Please check with the mall management or visit their website for information on upcoming events.
+Input: Does the mall offer gift wrapping services? Output: Some stores may offer gift wrapping services. Please check with individual stores.
+Input: Can I rent a wheelchair at the mall? Output: Please check with the mall management for wheelchair rental availability.
+Input: Miza Boumiel is a specialty store in the Mall of Sfax offering premium honey products. Output: That's correct. Miza Boumiel specializes in high-quality honey.
+Input: At Miza Boumiel, you can find a variety of organic and locally-sourced honey. Output: They offer a wide selection of honey options.
+Input: Looking for a gift? Miza Boumiel also offers beautifully packaged honey jars, perfect for any occasion. Output: Miza Boumiel is a great place to find unique honey-related gifts.
+Input: Miza Boumiel is located on the first floor of the Mall of Sfax, near the food court. Output: You can find Miza Boumiel on the first floor of the mall.
+Input: Visit Miza Boumiel to discover the health benefits of their honey and other natural products. Output: Explore the health benefits of honey at Miza Boumiel.
+Input: Where is Miza Boumiel located? Output: Miza Boumiel is located on the first floor of the Mall of Sfax, near the food court.
+Input: Can you tell me the location of Miza Boumiel? Output: Miza Boumiel is on the first floor of the mall, near the food court.
+Input: I'm looking for Miza Boumiel. Where can I find it? Output: Miza Boumiel is located on the first floor, near the food court.
+Input: Is Miza Boumiel on the first floor? Output: Yes, Miza Boumiel is on the first floor.
+Input: Which floor is Miza Boumiel on? Output: Miza Boumiel is located on the first floor.
+Input: What kind of honey do they sell at Miza Boumiel? Output: Miza Boumiel offers a variety of honey types, including organic and locally-sourced honey.
+Input: Does Miza Boumiel offer honey tastings? Output: Please check with the store directly to see if they offer honey tastings.
+Input: Do they sell any honey-based products other than honey? Output: Some honey stores also sell products like bee pollen, propolis, and royal jelly. You can check with Miza Boumiel to see what they offer.
+Input: Can I buy honey online from Miza Boumiel? Output: Please check with the store directly to see if they offer online ordering or delivery options.
+Input: What are the store hours for Miza Boumiel? Output: Store hours may vary. Please check with the store directly for their current operating hours.
+Input: The CSS Store in the Mall of Sfax is a must-visit for all fans of Club Sportif Sfaxien. Output: The CSS Store is the place to be for all CSS fans.
+Input: You can find official CSS merchandise, including jerseys, scarves, and accessories. Output: The store offers a wide range of official CSS merchandise.
+Input: The CSS Store also offers exclusive limited-edition items for true fans. Output: Find exclusive items for die-hard CSS fans.
+Input: Located on the ground floor of the Mall of Sfax, the CSS Store is a hub for sports lovers. Output: The CSS Store is located on the ground floor of the mall.
+Input: Whether you're looking for gifts or personal items, the CSS Store has something for every fan of Club Sportif Sfaxien. Output: Find the perfect CSS-related gift or treat yourself to some gear.
+Input: Where is the CSS Store located? Output: The CSS Store is located on the ground floor of the mall.
+Input: Can you tell me the location of the CSS Store? Output: The CSS Store is on the ground floor of the mall.
+Input: I'm looking for the CSS Store. Where can I find it? Output: The CSS Store is located on the ground floor of the Mall of Sfax.
+Input: Is the CSS Store on the ground floor? Output: Yes, the CSS Store is on the ground floor.
+Input: What products can I find at the CSS Store? Output: The CSS Store offers official CSS merchandise 
